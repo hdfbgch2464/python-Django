@@ -1,0 +1,4 @@
+{
+  "vim.mouseSelectionGoesIntoVisualMode": false,
+  "python-envs.defaultEnvManager": "ms-python.python:system"
+}
